@@ -1,4 +1,4 @@
-åˆ©ç”¨MATLAB é€²è¡Œå››é€£æ¡¿é‹å‹•æ¨¡æ“¬
+§Q¥ÎMATLAB ¶i¦æ¥|³s±ì¹B°Ê¼ÒÀÀ
 clc; clear all;
 % Parameters
 A = 2; B = 3; C = 4; D = 5;
